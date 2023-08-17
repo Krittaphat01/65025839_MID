@@ -2,7 +2,7 @@ class Product {
     private String name;
     private double price;
 
-    public Product(String name, double price) {
+    public Product(String name, double price) {s
         this.name = name;
         this.price = price;
     }
